@@ -1,39 +1,5 @@
 [
     {
-        "id": "092C04C4",
-        "category": "women",
-        "brand": "Eazyway",
-        "name": "Тайтсы",
-        "cost": 2890,
-        "color": [
-            "Черный/Черный",
-            "Черный/Красный"
-        ],
-        "sizes": [
-            "40/42",
-            "42/44",
-            "44/46"
-        ],
-        "photo": "MP002XW060O4_13625731_1_v1.jpg",
-        "preview": "MP002XW060O4_13625731_1_v2.jpg"
-    },
-    {
-        "id": "CD32D6F8",
-        "category": "women",
-        "brand": "New Balance",
-        "name": "Леггинсы NB Essentials Botanical Legging",
-        "cost": 2999,
-        "sizes": [
-            "40/42",
-            "42/44",
-            "44/46",
-            "46/48",
-            "48/50"
-        ],
-        "photo": "NE007EWMSTP9_14530060_1_v1.jpg",
-        "preview": "NE007EWMSTP9_14530060_1_v2.jpg"
-    },
-    {
         "id": "1ACC55DD",
         "category": "women",
         "brand": "Dali",
@@ -87,18 +53,6 @@
         ],
         "photo": "RTLAAK612301_14538241_1_v1.jpg",
         "preview": "RTLAAK612301_14538241_1_v2.jpg"
-    },
-    {
-        "id": "B838B70E",
-        "category": "women",
-        "brand": "Euros Style",
-        "name": "Куртка джинсовая",
-        "cost": 4500,
-        "sizes": [
-            "42/46"
-        ],
-        "photo": "MP002XW06UN3_14130289_1_v1.jpg",
-        "preview": "MP002XW06UN3_14130289_1_v2.jpg"
     },
     {
         "id": "14058BE1",
@@ -163,44 +117,6 @@
         ],
         "photo": "MP002XW0Q9SP_8840462_1_v1.jpg",
         "preview": "MP002XW0Q9SP_8840462_1_v2.jpg"
-    },
-    {
-        "id": "49FA52FB",
-        "category": "women",
-        "brand": "Fors",
-        "name": "Топ",
-        "cost": 3950,
-        "sizes": [
-            "40/42",
-            "42/44",
-            "44/46",
-            "46/48"
-        ],
-        "photo": "MP002XW14T1R_11615827_1_v1.jpg",
-        "preview": "MP002XW14T1R_11615827_1_v2.jpg"
-    },
-    {
-        "id": "5481519A",
-        "category": "women",
-        "brand": "Befree",
-        "name": "Топ Exclusive online",
-        "cost": 599,
-        "color": [
-            "Черный",
-            "Белый",
-            "Хаки",
-            "Бирюзовый",
-            "Фиолетовый",
-            "Розовый"
-        ],
-        "sizes": [
-            "42",
-            "44",
-            "46",
-            "48"
-        ],
-        "photo": "MP002XW06VXS_14089904_1.jpg",
-        "preview": "MP002XW06VXS_14089904_2.jpg"
     },
     {
         "id": "6AC9EAA8",
